@@ -42,11 +42,13 @@ Ensure they reflect the content of the section.
 Use a clear hierarchy (e.g., H1 for main sections, H2 for subsections).
 Avoid using jargon or overly technical terms in headings.
 Make them scannable by using action verbs or direct statements.
+
 10.What should be included in the introduction of a README to immediately inform users about what the product does? The introduction should include:
 A brief summary of the software's purpose.
 What problems it solves.
 The key features or benefits.
 A statement on who the target users are.
+
 11.How can you succinctly convey the purpose and key features of a product? You can convey this by writing a short paragraph or bullet points that clearly highlight:
 The primary function of the software.
 How it benefits the user.
